@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Level/Prefabs/Enemy.prefab.meta
 guid: 45e92edeef72da3469c55085ebe45c57
+=======
+guid: ee39eb9571e38d149b357631adf1db90
+>>>>>>> c2fdf5c7938a1e20358219fecfeb6b99208b4d38:Assets/Level/Prefabs/TrickManager.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 

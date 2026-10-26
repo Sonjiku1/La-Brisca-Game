@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Level/Prefabs/HealthBar.prefab.meta
 guid: 9b294cb40197b5c4e98d01ff5e5aef77
+=======
+guid: a9cb81b2676e8a748987e0af064554bf
+>>>>>>> c2fdf5c7938a1e20358219fecfeb6b99208b4d38:Assets/Level/Prefabs/UIConsole.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 

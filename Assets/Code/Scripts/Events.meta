@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Code/Scripts/Events.meta
 guid: 0c8b873e7d30a59439956979dcec1068
+=======
+guid: 2684d8c8405ed0b46a492416a29718b3
+>>>>>>> c2fdf5c7938a1e20358219fecfeb6b99208b4d38:Assets/ClassResources.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
